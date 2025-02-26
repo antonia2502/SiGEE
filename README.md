@@ -20,7 +20,7 @@ Este repositório contém o desenvolvimento do projeto SiGEE, um sistema destina
 * Estruturado com tabelas para Usuários, Consumo e Unidade Consumidora.
 
 ### Funcionamento
-
+<img src="/docs/Fluxo de Uso do Sistema.png" alt="Fluxo de Uso do Sistema">
 
 ### Considerações
 O SiGEE facilita o gerenciamento de energia, fornecendo uma visão clara do consumo elétrico. Com ele, os usuários podem acompanhar e otimizar o uso de energia, reduzindo custos e promovendo sustentabilidade.
