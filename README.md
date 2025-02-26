@@ -17,4 +17,10 @@ Este repositório contém o desenvolvimento do projeto SiGEE, um sistema destina
 
 3. Banco de Dados
 * Utiliza MySQL para armazenar dados.
-* Estruturado com tabelas para Usuários, Registros de Consumo, Unidade Consumidora e Endereço.
+* Estruturado com tabelas para Usuários, Consumo e Unidade Consumidora.
+
+### Funcionamento
+
+
+### Considerações
+O SiGEE facilita o gerenciamento de energia, fornecendo uma visão clara do consumo elétrico. Com ele, os usuários podem acompanhar e otimizar o uso de energia, reduzindo custos e promovendo sustentabilidade.
